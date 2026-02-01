@@ -1,0 +1,1 @@
+PS C:\Users\User\Documents\Jobs\myProject\myApp\android> ./gradlew assembleDebug
